@@ -38,3 +38,4 @@ Running PhpSpec Tests
 composer install
 vendor/bin/phpspec run
 ```
+
