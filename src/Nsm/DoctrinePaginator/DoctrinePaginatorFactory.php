@@ -24,4 +24,4 @@ class DoctrinePaginatorFactory
         return new DoctrinePaginatorDecorator($paginator);
     }
 
-} 
+}
